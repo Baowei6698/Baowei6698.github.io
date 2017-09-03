@@ -59,10 +59,10 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
   
   <entry>
     <title>Hello World</title>
-    <link href="https://baowei6698.github.io/2017/08/27/Hello-World-1/"/>
-    <id>https://baowei6698.github.io/2017/08/27/Hello-World-1/</id>
+    <link href="https://baowei6698.github.io/2017/08/27/Hello-World-0/"/>
+    <id>https://baowei6698.github.io/2017/08/27/Hello-World-0/</id>
     <published>2017-08-27T04:44:35.000Z</published>
-    <updated>2017-08-27T13:59:27.051Z</updated>
+    <updated>2017-08-27T06:24:25.313Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -81,8 +81,14 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
     
     </summary>
     
-      <category term="erff" scheme="https://baowei6698.github.io/categories/erff/"/>
+      <category term="hahah" scheme="https://baowei6698.github.io/categories/hahah/"/>
     
+    
+      <category term="Hexo" scheme="https://baowei6698.github.io/tags/Hexo/"/>
+    
+      <category term="HTML" scheme="https://baowei6698.github.io/tags/HTML/"/>
+    
+      <category term="JavaScript" scheme="https://baowei6698.github.io/tags/JavaScript/"/>
     
   </entry>
   
@@ -115,10 +121,10 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
   
   <entry>
     <title>Hello World</title>
-    <link href="https://baowei6698.github.io/2017/08/27/Hello-World-0/"/>
-    <id>https://baowei6698.github.io/2017/08/27/Hello-World-0/</id>
+    <link href="https://baowei6698.github.io/2017/08/27/Hello-World-1/"/>
+    <id>https://baowei6698.github.io/2017/08/27/Hello-World-1/</id>
     <published>2017-08-27T04:44:35.000Z</published>
-    <updated>2017-08-27T06:24:25.313Z</updated>
+    <updated>2017-08-27T13:59:27.051Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -137,14 +143,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
     
     </summary>
     
-      <category term="hahah" scheme="https://baowei6698.github.io/categories/hahah/"/>
+      <category term="erff" scheme="https://baowei6698.github.io/categories/erff/"/>
     
-    
-      <category term="Hexo" scheme="https://baowei6698.github.io/tags/Hexo/"/>
-    
-      <category term="HTML" scheme="https://baowei6698.github.io/tags/HTML/"/>
-    
-      <category term="JavaScript" scheme="https://baowei6698.github.io/tags/JavaScript/"/>
     
   </entry>
   
